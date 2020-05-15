@@ -1,5 +1,7 @@
 # Farm Landlord
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/538e69ac22a44ddbb10a1019e20c01f9)](https://app.codacy.com/manual/ofuochi/team-011-frontend?utm_source=github.com&utm_medium=referral&utm_content=ofuochi/team-011-frontend&utm_campaign=Badge_Grade_Dashboard)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
 
 ## Development server
